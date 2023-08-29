@@ -1,6 +1,0 @@
-{{#user}}
-Name: Saurabh Adivarekar
-Skills: HTML, CSS, JS, Linux, AWS, DevOps, Git, Git Actions, Jenkins, Ansible, Docker, Kubernetes, Terraform, SQL, Bash Scripting, Vagrant, Python, C/C++. 
-Email: adivarekarsaurabh1999@gmail.com
-{{/user}}
-
